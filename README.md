@@ -1,0 +1,1 @@
+This project analyzes supermarket sales data to gain insights into customer behavior, peak sales hours, discount impacts, and overall sales trends. Using Python, Pandas, NumPy, Matplotlib, and Seaborn, I explore and visualize sales data to uncover valuable business insights
